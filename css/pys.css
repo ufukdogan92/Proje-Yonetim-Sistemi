@@ -1,0 +1,42 @@
+/* Login Sayfasý Css Ayarlarý */
+
+#kullaniciGirisiHead{
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    font-family: "Open Sans",sans-serif;
+}
+
+
+
+/* Index Sayfasý Css Ayarlarý */
+
+.navbar-inner{
+    background: #0099FF;
+    border-color: #FFF;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle{
+    background: #207aff;
+}
+
+.dropdown-menu-title{
+    background: #207aff;
+}
+
+.nav-tabs.nav-stacked > li > a, .nav-tabs.nav-stacked > li > ul > li > a{
+    border-color: #FFF;
+}
+
+#sidebar-left{
+    background: #207aff;
+}
+
+.nav-tabs.nav-stacked > li.active > a, .nav-tabs.nav-stacked > li > ul > li.active > a{
+    background: #eee;
+    color: #999;
+}
+
+.box-header {
+    height: 20px;
+}
